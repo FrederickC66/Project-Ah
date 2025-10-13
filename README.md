@@ -8,6 +8,6 @@ Project Ah is a fast-paced, upward-scrolling platformer where the player leaps f
 
 ## Team
 
-- **Frederick** – Lead Developer & Project Coordinator  
-- **Matthew** – Gameplay Designer & Asset Creator  
-- **Bridget** – UI Designer & Sound Lead 
+- **Frederick** – Lead Developer (Project Coordinator)
+- **Matthew** – Lead Developer (Gameplay Designer)
+- **Bridget** – UI Designer & Asset Creator
