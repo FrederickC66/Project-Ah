@@ -18,5 +18,6 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Script2","order":1,"path":"scripts/Script2/Script2.yy",},
+    {"name":"Script3","order":2,"path":"scripts/Script3/Script3.yy",},
   ],
 }

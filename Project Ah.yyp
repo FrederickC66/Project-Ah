@@ -38,6 +38,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},},
+    {"id":{"name":"Script3","path":"scripts/Script3/Script3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

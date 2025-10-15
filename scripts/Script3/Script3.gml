@@ -1,0 +1,1 @@
+show_debug_message("The Octopus is nearby, beware.")
